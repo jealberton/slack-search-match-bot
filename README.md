@@ -7,7 +7,8 @@ Built with Google Apps Script, BigQuery, and any LLM API (Gemini, OpenAI, Claude
 
 ## The problem
 
-When you have hundreds of records spread across a data warehouse and users' personal files, finding a clean answer to a specific question can be painful. Teams resort to random data pulls and scattered knowledge that lives nowhere and everywhere at once. Sometimes the business user just wants to answer a simple question — the real simple ones, not those little monsters that seem simple but aren't. They just need a "search and match", and end up having to open a dashboard they can barely interpret, export a CSV, or file a ticket  to the data team, slowing everything down. So here is a different approach to solve this friction. 
+Sometimes the business user just wants to answer a simple question (the real simple ones, not those little monsters that seem simple but aren't). The question is simple. The answer is simple. Getting to it is not. 
+When hundreds of records are spread across a data warehouse and users' personal files, there's no single place to look. Teams resort to random data pulls and scattered knowledge that lives nowhere and everywhere at once. So instead of a quick search and match, someone ends up opening a dashboard they can barely interpret, exporting a CSV, or filing a ticket to the data team, slowing everything down. So here is a different approach to solve this friction. 
 
 
 ---
